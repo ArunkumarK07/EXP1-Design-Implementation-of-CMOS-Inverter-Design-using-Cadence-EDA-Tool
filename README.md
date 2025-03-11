@@ -55,9 +55,9 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 ## Results:
 
-### 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
-### 2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
-### 3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
+1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
+2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
+3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
 
 
 
