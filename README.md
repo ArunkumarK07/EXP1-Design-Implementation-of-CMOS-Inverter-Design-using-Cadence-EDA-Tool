@@ -46,7 +46,9 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 #### 3. Transient Response Setup:
 
-    ![358526650-92d14f32-8ba5-4fed-978a-38c360b8e305](https://github.com/user-attachments/assets/0b656a4a-256c-4bbe-bcd5-d12ab31f89bb)
+![image](https://github.com/user-attachments/assets/ecdf8ecc-5dfe-404d-ba08-85b1982881cf)
+
+
 
 ## Output
 #### 1.Transient Analysis Output
